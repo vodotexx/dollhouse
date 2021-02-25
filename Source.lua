@@ -3,9 +3,6 @@
 
 -- Instances:
 
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("THIS SCRIPT WAS MADE BY SNVYV (VITYAPNG IS REALLY COOL BTW) CORRUPT HUB SUCKS DONT USE IT LOL", "All")
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("THIS SCRIPT WAS MADE BY SNVYV (VITYAPNG IS REALLY COOL BTW) CORRUPT HUB SUCKS DONT USE IT LOL", "All")
-
 local madebysnvyv = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local Pattern = Instance.new("ImageLabel")
